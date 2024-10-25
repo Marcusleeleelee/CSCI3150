@@ -22,7 +22,7 @@ void* meat_supplier(void* arg) {
             pthread_cond_signal(&cond_meat); // Notify producers
         }
         pthread_mutex_unlock(&mutex);
-        sleep(2); // Simulate time taken to supply meat
+        //sleep(2); // Simulate time taken to supply meat
     }
     return NULL;
 }
@@ -36,7 +36,7 @@ void* bread_supplier(void* arg) {
             pthread_cond_signal(&cond_bread); // Notify producers
         }
         pthread_mutex_unlock(&mutex);
-        sleep(1); // Simulate time taken to supply bread
+        //sleep(1); // Simulate time taken to supply bread
     }
     return NULL;
 }
@@ -44,11 +44,14 @@ void* bread_supplier(void* arg) {
 void* producer(void* arg) {
     while (1) {
         pthread_mutex_lock(&mutex);
-        while (meat < 1) {
-            pthread_cond_wait(&cond_meat, &mutex); // Wait for meat
-        }
-        while (bread < 2) {
-            pthread_cond_wait(&cond_bread, &mutex); // Wait for bread
+        // when ingredient not enough, wait
+        while (meat < 1 || bread < 2) {
+            while (meat < 1) {
+                pthread_cond_wait(&cond_meat, &mutex); // Wait for meat
+            }
+            while (bread < 2) {
+                pthread_cond_wait(&cond_bread, &mutex); // Wait for bread
+            }
         }
         // Produce one shawarma
         meat--;
@@ -56,7 +59,7 @@ void* producer(void* arg) {
         printf("Producer made a shawarma. Remaining meat: %d, bread: %d\n", meat, bread);
         shawarma++;
         pthread_mutex_unlock(&mutex);
-        sleep(2); // Simulate time taken to make shawarma
+        //sleep(2); // Simulate time taken to make shawarma
     }
     return NULL;
 }
