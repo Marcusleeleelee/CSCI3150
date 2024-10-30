@@ -83,7 +83,7 @@ Click on the topic to access the slides, and on the superscript to access the co
 | 6 | [Semaphores in C](tutorial/T06/tut06.pptx) |  Yuetao |  |  |
 | 7 | [Multilevel Feedback Queue](tutorial/T07/tut07.pptx) |  Yuetao |  |  |
 | 8 | [Midterm Solution](tutorial/T08/tut08.pptx) |  Kaiwen & Jianqiang | [Assignment 3](https://classroom.github.com/a/QVfUU-LW ) | 18:00:00 p.m., Mon, Nov 18th |
-| 9 | [Swapping Algorithms]((tutorial/T09/tut09.pptx)) | Kaiwen |  |  |
+| 9 | [Swapping Algorithms](tutorial/T09/tut09.pptx) | Kaiwen |  |  |
 
 ### Assignment Submission(Github Classroom) and Contact
 
