@@ -112,3 +112,9 @@ Click on the topic to access the slides, and on the superscript to access the co
   * Feel free to ask questions and raise comments during the lecture, but we can only entertain short questions and discussions in-class.
   * Longer and deeper discussion and questions can happen in tutorials.
   * Follow University's regulations on COVID, including use of masks, hand sanitization, seating with social distance, etc.
+
+### Announcement regarding assignment submissions.
+
+We understand that certain circumstances, such as severe illness requiring hospitalization or other force majeure events, may prevent you from submitting your assignments on time.
+
+Should you find yourself in such a situation, and upon providing appropriate documentation as proof of the circumstances, you will be permitted to use the average score of all your other assignments as a replacement for the missed assignment. This policy is designed to ensure fairness while maintaining grade standards in light of uncontrollable events.
