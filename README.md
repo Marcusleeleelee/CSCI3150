@@ -66,7 +66,7 @@ Click on the topic to access the slides, and on the superscript to access the co
 | 8 | [Mem. Manag. 1](lectures/lec10_mem.pptx)<sup>[13](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)-[16](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-segmentation.pdf)</sup> | Mem. Manag. | [MEM 1](lectures/lec10_mem.pdf)
 | 9 | [Mem.: Paging](lectures/lec11_paging.pptx)<sup>[18](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf), [19](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf), [20](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf)</sup> | [Mem.: Paging](lectures/lec11_paging.pptx) | [Paging](lectures/lec11_paging.pdf)
 | 10 | [Mem.: Swapping](lectures/lec12_swapping.pptx)<sup>[21](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf), [22](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf)</sup> | [I/O Devices](lectures/lec13_io.pptx)<sup>[36](https://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf), [37](https://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf)</sup> | [Swapping](lectures/lec12_swapping.pdf), <br />[I/O Devices](lectures/lec13_io.pdf)
-| 11 | [A Simple FS] | [LFS]
+| 11 | [A Simple FS](lectures/lec14_fsapi.pptx)<sup>[39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf), [40](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf), [41](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf)</sup> | [LFS]
 | 12 | [Virtual Machines] | [Microkernels]
 | 13 | [Networking] | [Final Review]
 
