@@ -85,6 +85,7 @@ Click on the topic to access the slides, and on the superscript to access the co
 | 8 | [Midterm Solution](tutorial/T08/tut08.pptx) |  Kaiwen & Jianqiang | [Assignment 3](https://classroom.github.com/a/QVfUU-LW ) | 18:00:00 p.m., Mon, Nov 18th |
 | 9 | [Swapping Algorithms](tutorial/T09/tut09.pptx) | Kaiwen |  |  |
 | 10 | [Paging (Address Translation)](tutorial/T10/tut10.pptx) |Yitao  | | |
+| 11 | cancelled | | [Assignment 4](https://classroom.github.com/a/CC6luaQm) | 18:00:00 p.m., Mon, Dec. 9th |
 
 ### Assignment Submission(Github Classroom) and Contact
 
@@ -95,6 +96,7 @@ Click on the topic to access the slides, and on the superscript to access the co
 | [assignment-two](https://classroom.github.com/a/ECgb6vfZ) | 18:00:00 p.m., Mon, Nov 4th | Jianqiang & Yuetao |
 | [assignment-two-grace-token](https://classroom.github.com/a/16BukB_p) | 18:00:00 p.m., Tue, Nov 5th | Jianqiang & Yuetao |
 | [assignment-three](https://classroom.github.com/a/QVfUU-LW)  | 18:00:00 p.m., Mon, Nov 18th | Kaiwen |
+| [assignment-four](https://classroom.github.com/a/CC6luaQm)  | 18:00:00 p.m., Mon, Dec 9th | Yitao & Yicheng |
 
 ## Course policies
 - Assignments: 
