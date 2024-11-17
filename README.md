@@ -66,7 +66,7 @@ Click on the topic to access the slides, and on the superscript to access the co
 | 8 | [Mem. Manag. 1](lectures/lec10_mem.pptx)<sup>[13](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)-[16](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-segmentation.pdf)</sup> | Mem. Manag. | [MEM 1](lectures/lec10_mem.pdf)
 | 9 | [Mem.: Paging](lectures/lec11_paging.pptx)<sup>[18](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf), [19](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf), [20](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf)</sup> | [Mem.: Paging](lectures/lec11_paging.pptx) | [Paging](lectures/lec11_paging.pdf)
 | 10 | [Mem.: Swapping](lectures/lec12_swapping.pptx)<sup>[21](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf), [22](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf)</sup> | [I/O Devices](lectures/lec13_io.pptx)<sup>[36](https://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf), [37](https://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf)</sup> | [Swapping](lectures/lec12_swapping.pdf), <br />[I/O Devices](lectures/lec13_io.pdf)
-| 11 | [A Simple FS] | [LFS]
+| 11 | [A Simple FS](lectures/lec14_fsapi.pptx)<sup>[39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf), [40](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf), [41](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf)</sup> | [LFS](lectures/lec15_lfs.pptx)<sup>[43](https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)</sup>
 | 12 | [Virtual Machines] | [Microkernels]
 | 13 | [Networking] | [Final Review]
 
@@ -85,6 +85,7 @@ Click on the topic to access the slides, and on the superscript to access the co
 | 8 | [Midterm Solution](tutorial/T08/tut08.pptx) |  Kaiwen & Jianqiang | [Assignment 3](https://classroom.github.com/a/QVfUU-LW ) | 18:00:00 p.m., Mon, Nov 18th |
 | 9 | [Swapping Algorithms](tutorial/T09/tut09.pptx) | Kaiwen |  |  |
 | 10 | [Paging (Address Translation)](tutorial/T10/tut10.pptx) |Yitao  | | |
+| 11 | cancelled | | [Assignment 4](https://classroom.github.com/a/CC6luaQm) | 18:00:00 p.m., Mon, Dec. 9th |
 
 ### Assignment Submission(Github Classroom) and Contact
 
@@ -95,6 +96,7 @@ Click on the topic to access the slides, and on the superscript to access the co
 | [assignment-two](https://classroom.github.com/a/ECgb6vfZ) | 18:00:00 p.m., Mon, Nov 4th | Jianqiang & Yuetao |
 | [assignment-two-grace-token](https://classroom.github.com/a/16BukB_p) | 18:00:00 p.m., Tue, Nov 5th | Jianqiang & Yuetao |
 | [assignment-three](https://classroom.github.com/a/QVfUU-LW)  | 18:00:00 p.m., Mon, Nov 18th | Kaiwen |
+| [assignment-four](https://classroom.github.com/a/CC6luaQm)  | 18:00:00 p.m., Mon, Dec 9th | Yitao & Yicheng |
 
 ## Course policies
 - Assignments: 
