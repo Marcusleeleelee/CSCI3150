@@ -40,6 +40,9 @@ The course materials are partly based upon the following classic textbook:
 - Operating Systems: Three Easy Pieces, Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 - The book is free online: http://pages.cs.wisc.edu/~remzi/OSTEP/ 
 
+The following textbook (CSAPP) serves as a very good source of reference:
+- [Computer Systems: A Programmer's Perspective, 3rd edition](https://csapp.cs.cmu.edu/3e/home.html), Randal E. Bryant and David R. O'Hallaron
+
 ### Grading
 | Assessment item | CSCI Weight 
 | :---------------- | :--- | 
