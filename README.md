@@ -73,7 +73,7 @@ Click on the topic to access the slides, and on the superscript to access the co
 | 12 | [LFS](lectures/lec15_lfs.pptx)<sup>[43](https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)</sup> | [Virtualization](lectures/lec16_virtualization.pptx)<sup>[vmm](https://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf)</sup> | [LFS](lectures/lec15_lfs.pdf), [virt](lectures/lec16_virtualization.pdf) | [The Design and Implementation of A Log-Structured File System](https://web.stanford.edu/~ouster/cgi-bin/papers/lfs.pdf)
 | 13 | [Networking](lectures/lec17_net.pptx) | [Final Review] | [Net](lectures/lec17_net.pdf) | [It's Time for Operating Systems to Rediscover Hardware](https://www.youtube.com/watch?v=36myc8wQhLo&t=3s)
 
-The following material provides a nice overview of microkernels and kernel architecture, an intriguing topic I wish I had time to go through.
+The following material provides a nice overview of microkernels and kernel architecture, an intriguing topic I wish I had time to teach.
 - [Section 1: Kernel architecture, CS161, Harvard](https://read.seas.harvard.edu/cs161/2024/sections/section1/)
 
 ### Tutorials and Assignments
