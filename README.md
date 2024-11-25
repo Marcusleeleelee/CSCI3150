@@ -68,7 +68,7 @@ Click on the topic to access the slides, and on the superscript to access the co
 | 10 | [Mem.: Swapping](lectures/lec12_swapping.pptx)<sup>[21](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf), [22](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf)</sup> | [I/O Devices](lectures/lec13_io.pptx)<sup>[36](https://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf), [37](https://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf)</sup> | [Swapping](lectures/lec12_swapping.pdf), <br />[I/O Devices](lectures/lec13_io.pdf)
 | 11 | [A Simple FS](lectures/lec14_fsapi.pptx)<sup>[39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf), [40](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf), [41](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf)</sup> | | [VSFS](lectures/lec14_fsapi.pdf)
 | 12 | [LFS](lectures/lec15_lfs.pptx)<sup>[43](https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)</sup> | [Virtualization](lectures/lec16_virtualization.pptx)<sup>[vmm](https://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf)</sup> | [LFS](lectures/lec15_lfs.pdf), [virt](lectures/lec16_virtualization.pdf) | [The Design and Implementation of A Log-Structured File System](https://web.stanford.edu/~ouster/cgi-bin/papers/lfs.pdf)
-| 13 | [Networking] | [Final Review] | | [It's Time for Operating Systems to Rediscover Hardware](https://www.youtube.com/watch?v=36myc8wQhLo&t=3s)
+| 13 | [Networking](lectures/lec17_net.pptx) | [Final Review] | [Net](lectures/lec17_net.pdf) | [It's Time for Operating Systems to Rediscover Hardware](https://www.youtube.com/watch?v=36myc8wQhLo&t=3s)
 
 
 ### Tutorials and Assignments
