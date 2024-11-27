@@ -92,6 +92,7 @@ The following material provides a nice overview of microkernels and kernel archi
 | 10 | [Paging (Address Translation)](tutorial/T10/tut10.pptx) |Yitao  | | |
 | 11 | cancelled | | [Assignment 4](https://classroom.github.com/a/CC6luaQm) | 18:00:00 p.m., Mon, Dec. 9th |
 | 12 | [File System API](tutorial/T11/tut11.pptx) | Kaiwen |  |  |
+| 12 | [FAT File System](tutorial/T12/tut12.pptx) | Yitao |  |  |
 
 ### Assignment Submission(Github Classroom) and Contact
 
