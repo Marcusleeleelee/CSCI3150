@@ -105,6 +105,7 @@ The following material provides a nice overview of microkernels and kernel archi
 | [assignment-three](https://classroom.github.com/a/QVfUU-LW)  | 18:00:00 p.m., Mon, Nov 18th | Kaiwen |
 | [assignment-three-grace-token](https://classroom.github.com/a/X0fFn8UQ)  | 18:00:00 p.m., Tue, Nov 19th | Kaiwen |
 | [assignment-four](https://classroom.github.com/a/CC6luaQm)  | 18:00:00 p.m., Mon, Dec 9th | Yitao & Yicheng |
+| [assignment-four-grace-token](https://classroom.github.com/a/szhJfZ6n)  | 18:00:00 p.m., TUE, Dec 10th | Yitao & Yicheng |
 
 ## Course policies
 - Assignments: 
